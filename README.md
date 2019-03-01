@@ -1,2 +1,2 @@
-# PokeCatcher
-Small Cursor Game
+# PokeHunter
+Small Java Swing cursor game
