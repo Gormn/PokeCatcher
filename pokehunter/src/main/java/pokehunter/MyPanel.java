@@ -7,7 +7,7 @@
 //uses the variables to display a Pokemon on top of an adjusting
 //background.
 //
-package pokecatch;
+package pokehunter;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;

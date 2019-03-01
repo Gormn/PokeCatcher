@@ -4,7 +4,7 @@
 //
 //This is the main class to instantiate the Frame.
 
-package pokecatch;
+package pokehunter;
 
 
 public class Main {

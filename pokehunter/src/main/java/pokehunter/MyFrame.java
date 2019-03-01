@@ -7,7 +7,7 @@
 //It displays a custom cursor and checks to see if you click on the image of the
 //Pokemon. If you click on the image when it is on the screen, it counts as a catch. 
 
-package pokecatch;
+package pokehunter;
 
 import javax.swing.*;
 import java.awt.*;
